@@ -1,3 +1,4 @@
+
 # Aster & Row Support Agent
 
 A reliability-focused RAG customer support agent built for the Aster & Row ecommerce take-home assignment.
@@ -595,22 +596,13 @@ This was corrected and regression-tested.
 ---
 
 # Demo Video
+<p align="center">
 
-> Add your 2–4 minute demo video or GIF here.
+  <img src="https://github.com/user-attachments/assets/f7b65d7f-0813-4dd2-8a41-883f244b65ed" width="350"/>
 
-The demo should show:
+</p> 
 
-1. A knowledge-base question with citations.
-2. An order lookup.
-3. A multi-turn conversation.
-4. A case where the agent refuses to guess or recommends human help.
-5. The evaluation suite running.
 
-Example:
-
-```markdown
-[![Aster & Row Support Agent Demo](demo-thumbnail.png)](YOUR_DEMO_VIDEO_LINK)
-```
 
 ---
 
