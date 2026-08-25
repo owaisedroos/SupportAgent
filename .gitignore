@@ -1,0 +1,6 @@
+.env
+.index/
+logs/*.jsonl
+__pycache__/
+*.pyc
+.venv/
