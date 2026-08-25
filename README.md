@@ -598,7 +598,8 @@ This was corrected and regression-tested.
 # Demo Video
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/f7b65d7f-0813-4dd2-8a41-883f244b65ed" width="350"/>
+<img width="1230" height="720" alt="CrossWord" src="https://github.com/user-attachments/assets/61181de7-2272-4cf3-a739-2e996f4e3d6d" />
+
 
 </p> 
 
